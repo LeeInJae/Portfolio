@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  UIManager.cpp
+  Submarine.cpp
+  ShipPlayer.cpp
+  Ship.cpp
+  PrintUI.cpp
+  PrintGUI.cpp
+  GameManager.cpp
+  Destroyer.cpp
+  Cruiser.cpp
+  BattleShip_v4.cpp
+  BattleShipMap.cpp
+  Battleship.cpp
+  Aircraft.cpp
+  코드를 생성하고 있습니다...
+  BattleShipV4.vcxproj -> C:\Users\인재\Desktop\깃헙정리\battleship\trunk\BattleShipV4\Debug\BattleShipV4.exe
+  BattleShipV4.vcxproj -> C:\Users\인재\Desktop\깃헙정리\battleship\trunk\BattleShipV4\Debug\BattleShipV4.pdb (Full PDB)
